@@ -81,6 +81,7 @@ p.footer {
     font-size: x-small;
 }
 #canvasDiv{
+    max-width:calc(60vh);
     transform: translateX(110%);   
 }
 #splash {
